@@ -12,6 +12,15 @@
         font-weight: 600;
         font-size: 18px;
     }
+
+    .abs-center{
+display: flex;
+align-items: center;
+justify-content: center;
+min-height: 100hv;
+
+
+    }
  
     .carousel-item{
 min-height: 400px;
