@@ -89,7 +89,7 @@ width: 10px;
 }
 .animacion{
 
-    transition: font-size 0.2s ease;
+    transition: font-size 0.3s ease;
     
     
     }
@@ -97,7 +97,7 @@ width: 10px;
 .animacion:hover{
 
 font-size: 20px;
-
+font-weight: bold;
 }
 
 @media(max-width: 767px){
