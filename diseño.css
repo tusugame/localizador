@@ -142,4 +142,16 @@ padding: 30px 0;
 .banner{
     margin-bottom: 30px;
 }
+.animacion{
+
+    transition: transform 0.3s ease;
+    
+    
+    }
+
+.animacion:hover{
+transform: scale(1.2);
+
+
+}
 }
