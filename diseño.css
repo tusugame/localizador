@@ -89,7 +89,7 @@ width: 10px;
 }
 .animacion{
 
-    transition: height 0.5s ease;
+    transition: font-size 0.2s ease;
     
     
     }
