@@ -93,12 +93,14 @@ width: 10px;
     
     
     }
+    
 
 .animacion:hover{
 
 transform: scale(1.1);
 font-weight: bold;
 }
+
 
 @media(max-width: 767px){
 .carousel-item{
@@ -143,9 +145,5 @@ padding: 30px 0;
     margin-bottom: 30px;
 }
 
-.media{
-width: 400px;
 
-
-}
 }
