@@ -112,6 +112,15 @@ font-weight: bold;
 
 
 @media(max-width: 767px){
+    .titulo{
+
+        font-family: "Fleur De Leah", cursive;
+        font-size: 35px;
+        font-weight: 400px;
+        font-style: normal;
+      color: black;
+    
+    }
 .carousel-item{
 
 height: 500px;
